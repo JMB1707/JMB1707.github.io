@@ -10,3 +10,10 @@ Un sistema operativo de inteligencia artificial (AIOS) es una forma de software 
   agent-id="1987eb0a-c0c3-491a-b087-7d3a05ba412c"
   language-code="es"
 ></df-messenger>
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-title="Terminos_SO"
+  agent-id="d5cde31f-b52b-49d8-b76b-8eb798aaf712"
+  language-code="es"
+></df-messenger>
