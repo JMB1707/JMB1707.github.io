@@ -1,5 +1,5 @@
 ## Welcome Jean Marcos
-![Robot](https://www.google.com/search?q=machine+learning&sxsrf=ALeKk01x_MU-RC-c1s9H-uEqeHSPyiEL2Q:1603326762518&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiA2o3R-cbsAhUNwVkKHf4fC8cQ_AUoAXoECAcQAw&biw=1365&bih=694#imgrc=LKzHSnM7xxhexM.jpg)
+![Robot](machine-learning.jpg)
 
 ### AIOS
 Un sistema operativo de inteligencia artificial (AIOS) es una forma de software del sistema que administra los recursos de hardware y software de la computadora y proporciona servicios comunes para programas de computadora a través de la inteligencia artificial general. El sistema operativo AI es un componente del software del sistema en un sistema informático.
